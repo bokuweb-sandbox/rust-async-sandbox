@@ -1,0 +1,8 @@
+[package]
+name = "ch01"
+version = "0.1.0"
+authors = ["bokuweb"]
+edition = "2018"
+
+[dependencies]
+futures-preview = "0.3.0-alpha.11"
